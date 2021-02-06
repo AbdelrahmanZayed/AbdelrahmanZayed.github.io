@@ -40,10 +40,16 @@ I am a first year PhD student at [Mila](https://mila.quebec/en/person/abdelrahma
 			<h1>Publications</h1>
 		</header>
 <!-- Content -->
+[Mila](https://mila.quebec/en/person/abdelrahman-zayed/)
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
 <div class="column">
 	<div class="20u 10u$(small)">
 		<h3>5- Automatic Frame Selection using CNN in Ultrasound Elastography</h3>
-	</div><p>[Link](https://mila.quebec/en/person/abdelrahman-zayed/)</p>
+	</div>
 	<div class="6u$ 10u$(small)">
 		<h3>4- Rapid Quantification of White Matter Disconnection in the Human Brain</h3>
 	</div>
