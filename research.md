@@ -42,9 +42,9 @@ nav-menu: true
 <div class="column">
 	<div class="20u 10u$(small)">
 		<h3>5- Automatic Frame Selection using CNN in Ultrasound Elastography</h3>
-		[Link](https://arxiv.org/pdf/2002.06734.pdf)<a href="https://arxiv.org/pdf/2002.06734.pdf"></a>
-		<http://www.example.com>
 	</div>
+</div>
+	[Link](https://arxiv.org/pdf/2002.06734.pdf)
 	<div class="6u$ 10u$(small)">
 		<h3>4- Rapid Quantification of White Matter Disconnection in the Human Brain</h3>
 		<http://www.example.com> [Link](https://arxiv.org/pdf/2002.09035.pdf)
