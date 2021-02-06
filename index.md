@@ -1,8 +1,8 @@
 ---
 layout: home
-title: About meme
+title: 
 landing-title: 'Abdelrahman Zayed'
-description: about him
+description: 
 image: 
 author: about her
 show_tile: True
