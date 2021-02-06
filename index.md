@@ -4,8 +4,8 @@ title:
 landing-title: 'Abdelrahman Zayed'
 description: 
 image: 
-author: about her
-show_tile: True
+author: 
+show_tile: False
 ---
 
 <img src="https://raw.githubusercontent.com/AbdelMostafa/AbdelMostafa.github.io/master/assets/images/abdel_photo_2.jpg" width="220">
