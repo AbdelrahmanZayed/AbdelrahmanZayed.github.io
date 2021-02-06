@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-A first year PhD student at [Mila](https://mila.quebec/en/person/abdelrahman-zayed/).
+My CV is available [here](https://github.com/AbdelMostafa/AbdelMostafa.github.io/blob/master/assets/CV.pdf). 
