@@ -1,6 +1,6 @@
 ---
 layout: home
-title: About me
+title: Home
 landing-title: 'Abdelrahman Zayed'
 description: null
 image: null
