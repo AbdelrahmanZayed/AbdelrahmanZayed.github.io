@@ -1,16 +1,49 @@
 ---
+layout: page
 title: Teaching
-layout: landing
-description: ''
-image: assets/images/pic07.jpg
 nav-menu: true
 ---
 
 <!-- Main -->
-<div id="main">
-I was a teaching assistant for the following courses:
-* Analog communications at Cairo University (Fall 2016).
-* Applied machine learning at Polytechnique Montreal (Fall 2020)
+<div id="main" class="alt">
 
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>Teaching assistant</h1>
+		</header>
+
+<!-- Content -->
+<div class="column">
+	<div class="6u 10u$(small)">
+		<h3>Analog communications at Cairo University (Fall 2016)</h3>
+	</div>
+	<div class="6u$ 10u$(small)">
+		<h3>Applied machine learning at Polytechnique Montreal (Fall 2020)</h3>
+	</div>
+	<!-- Break -->
+	<div class="4u 10u$(medium)">
+		<h3>Reinforcement learning</h3>
+	</div>
+	<div class="4u 10u$(medium)">
+		<h3>Lifelong learning</h3>
+	</div>
+	<div class="4u$ 10u$(medium)">
+		<h3>Medical imaging</h3>
+	</div>
+	<div class="6u$ 10u$(small)">
+		<h3>Neuroscience</h3>
+	</div>
+</div>
+
+<hr class="major" />
+
+
+<!-- Text stuff -->
+
+
+</div>
+</section>
 
 </div>
