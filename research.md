@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Research interests
 nav-menu: true
 ---
 
@@ -15,7 +15,6 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<h2 id="content">Interests</h2>
 <div class="column">
 	<div class="6u 10u$(small)">
 		<h3>Recurrent neural networks</h3>
