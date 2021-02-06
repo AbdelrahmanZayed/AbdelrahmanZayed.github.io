@@ -16,23 +16,23 @@ nav-menu: true
 
 <!-- Content -->
 <div class="column">
-	<div class="6u 10u$(small)">
+	<div class="20u 10u$(small)">
 		<h3>Recurrent neural networks</h3>
 	</div>
-	<div class="6u$ 10u$(small)">
+	<div class="20u$ 10u$(small)">
 		<h3>Natural language processing</h3>
 	</div>
 	<!-- Break -->
-	<div class="4u 10u$(medium)">
+	<div class="20u 10u$(medium)">
 		<h3>Reinforcement learning</h3>
 	</div>
-	<div class="4u 10u$(medium)">
+	<div class="20u 10u$(medium)">
 		<h3>Lifelong learning</h3>
 	</div>
-	<div class="4u$ 10u$(medium)">
+	<div class="20u$ 10u$(medium)">
 		<h3>Medical imaging</h3>
 	</div>
-	<div class="6u$ 10u$(small)">
+	<div class="20u$ 10u$(small)">
 		<h3>Neuroscience</h3>
 	</div>
 </div>
@@ -41,27 +41,27 @@ nav-menu: true
 		</header>
 <!-- Content -->
 <div class="column">
-	<div class="6u 10u$(small)">
+	<div class="20u 10u$(small)">
 		<h3>5- Automatic Frame Selection using CNN in Ultrasound Elastography</h3>
-	</div><p>[Mila](https://mila.quebec/en/person/abdelrahman-zayed/)</p>
+	</div><p>[Link](https://mila.quebec/en/person/abdelrahman-zayed/)</p>
 	<div class="6u$ 10u$(small)">
 		<h3>4- Rapid Quantification of White Matter Disconnection in the Human Brain</h3>
 	</div>
 	<!-- Break -->
-	<div class="4u 10u$(medium)">
+	<div class="20u 10u$(medium)">
 		<h3>3- Automatic Frame Selection Using MLP Neural Network in Ultrasound Elastography</h3>
 	</div>
-	<div class="4u$ 10u$(medium)">
+	<div class="20u$ 10u$(medium)">
 		<h3>2- Fast Strain Estimation and Frame Selection in Ultrasound Elastography using Machine Learning</h3>
 	</div>
-	<div class="6u$ 10u$(small)">
+	<div class="20u$ 10u$(small)">
 		<h3>1- Fast approximate time-delay estimation in ultrasound elastography using principal component analysis</h3>
 	</div>
 </div>
 		<header class="major">
 			<h1>Thesis</h1>
 		</header>
-	<div class="4u 10u$(medium)">
+	<div class="20u 10u$(medium)">
 		<h3> Ultrasound Elastography using Machine Learning</h3>
 	</div>
 <hr class="major" />
