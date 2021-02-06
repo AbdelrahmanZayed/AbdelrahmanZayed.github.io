@@ -47,6 +47,11 @@ nav-menu: true
 	</div>
 	<div class="6u$ 10u$(small)">
 		<h3>Rapid Quantification of White Matter Disconnection in the Human Brain</h3>
+		1. Item 1
+		1. Item 2
+		1. Item 3
+		   1. Item 3a
+		   1. Item 3b
 	</div>
 	<!-- Break -->
 	<div class="4u 10u$(medium)">
