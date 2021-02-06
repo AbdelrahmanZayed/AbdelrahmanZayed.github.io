@@ -47,7 +47,7 @@ nav-menu: true
 	</div>
 	<div class="6u$ 10u$(small)">
 		<h3>4- Rapid Quantification of White Matter Disconnection in the Human Brain</h3>
-		[Link](https://arxiv.org/pdf/2002.09035.pdf)
+		<http://www.example.com> [Link](https://arxiv.org/pdf/2002.09035.pdf)
 	</div>
 	<!-- Break -->
 	<div class="20u 10u$(medium)">
