@@ -7,12 +7,6 @@ image:
 author: 
 show_tile: False
 ---
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h1>Research interests</h1>
-		</header>
     
 <img src="https://raw.githubusercontent.com/AbdelMostafa/AbdelMostafa.github.io/master/assets/images/abdel_photo_2.jpg" width="220">
 
