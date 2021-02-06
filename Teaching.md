@@ -16,10 +16,10 @@ nav-menu: true
 
 <!-- Content -->
 <div class="column">
-	<div class="6u 10u$(small)">
+	<div class="4u 10u$(small)">
 		<h3>Analog communications at Cairo University (Fall 2016)</h3>
 	</div>
-	<div class="6u$ 10u$(small)">
+	<div class="4u$ 10u$(small)">
 		<h3>Applied machine learning at Polytechnique Montreal (Fall 2020)</h3>
 </div>
 
