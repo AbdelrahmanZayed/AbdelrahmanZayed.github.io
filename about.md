@@ -2,7 +2,7 @@
 layout: post
 title: About
 description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+image: assets/images/abdel_photo_2.jpg
 nav-menu: true
 ---
 
