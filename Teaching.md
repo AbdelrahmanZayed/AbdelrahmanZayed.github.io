@@ -23,10 +23,6 @@ nav-menu: true
 		<h3>Applied machine learning at Polytechnique Montreal (Fall 2020)</h3>
 </div>
 
-<hr class="major" />
-
-
-<!-- Text stuff -->
 
 
 </div>
