@@ -18,20 +18,23 @@ nav-menu: true
 <h2 id="content">Interests</h2>
 <div class="column">
 	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
+		<h3>Recurrent neural networks</h3>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
+		<h3>Natural language processing</h3>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
-		<h3>Interdum sapien gravida</h3>
+		<h3>Reinforcement learning</h3>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>Faucibus consequat lorem</h3>
+		<h3>Lifelong learning</h3>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3>Accumsan montes viverra</h3>
+		<h3>Medical imaging</h3>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h3>Neuroscience</h3>
 	</div>
 </div>
 
