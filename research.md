@@ -59,7 +59,7 @@ nav-menu: true
 	</div>
 </div>
 		<header class="major">
-			<h1>Thesis</h1>
+			<h1>Master's Thesis</h1>
 		</header>
 	<div class="20u 10u$(medium)">
 		<h3> Ultrasound Elastography using Machine Learning</h3>
