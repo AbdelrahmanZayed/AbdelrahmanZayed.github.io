@@ -43,7 +43,7 @@ nav-menu: true
 <div class="column">
 	<div class="6u 10u$(small)">
 		<h3>Automatic Frame Selection using CNN in Ultrasound Elastography</h3>
-		<h3>[Link](https://arxiv.org/pdf/2002.06734.pdf)<h3>
+		<h3>[Mila](https://mila.quebec/en/person/abdelrahman-zayed/)<h3>
 	</div>
 	<div class="6u$ 10u$(small)">
 		<h3>Rapid Quantification of White Matter Disconnection in the Human Brain</h3>
