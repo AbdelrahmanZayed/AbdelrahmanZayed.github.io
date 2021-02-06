@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: home
 title: About me
 landing-title: 'Abdelrahman Zayed'
 description: null
