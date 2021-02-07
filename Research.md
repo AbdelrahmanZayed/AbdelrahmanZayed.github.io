@@ -61,7 +61,7 @@ nav-menu: true
 		<dt>Ultrasound Elastography using Machine Learning.</dt>
 		<dd><b>Kristy Choi</b>, Curtis Hawthorne, Ian Simon, Monica Dinculescu, Jesse Engel</dd>
 		<dd><i>Master's Thesis, 2020.</i></dd>
-		<dd><a href="https://spectrum.library.concordia.ca/986744/1/Zayed_MASc_S2020.pdf">[Link]</dd>
+		<dd><a href="https://spectrum.library.concordia.ca/986744/1/Zayed_MASc_S2020.pdf">[Link]</a></dd>
 	</dl>
 	<dl>
 		<dt>Automatic Frame Selection using CNN in Ultrasound Elastography.</dt>
