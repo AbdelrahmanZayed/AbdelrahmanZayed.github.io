@@ -57,7 +57,7 @@ nav-menu: true
 		<dd><i>Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS), 2019.</i></dd>
 		<dd><a href="https://arxiv.org/pdf/1911.05242.pdf">[arXiv]</a></dd>
 	</dl>
-		<dl>
+	<dl>
 		<dt>Ultrasound Elastography using Machine Learning.</dt>
 		<dd><b>Kristy Choi</b>, Curtis Hawthorne, Ian Simon, Monica Dinculescu, Jesse Engel</dd>
 		<dd><i>Master's Thesis, 2020.</i></dd>
