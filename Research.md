@@ -15,24 +15,8 @@ nav-menu: true
 
 <!-- Content -->
 <div class="column">
-	<div class="20u 10u$(small)">
-		<h3>Recurrent neural networks</h3>
-	</div>
-	<div class="20u$ 10u$(small)">
-		<h3>Natural language processing</h3>
-	</div>
-	<!-- Break -->
-	<div class="20u 10u$(medium)">
-		<h3>Reinforcement learning</h3>
-	</div>
-	<div class="20u 10u$(medium)">
-		<h3>Lifelong learning</h3>
-	</div>
-	<div class="20u$ 10u$(medium)">
-		<h3>Medical imaging</h3>
-	</div>
-	<div class="20u$ 10u$(small)">
-		<h3>Neuroscience</h3>
+	<div class="60u 5u$(small)">
+		<h3>Recurrent neural networks, Natural language processing, Reinforcement learning, Lifelong learning, Medical imaging and Neuroscience</h3>
 	</div>
 </div>
 		<header class="major">
