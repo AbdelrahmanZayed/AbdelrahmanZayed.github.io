@@ -42,7 +42,6 @@ nav-menu: true
 		<dt>Automatic Frame Selection Using MLP Neural Network in Ultrasound Elastography.</dt>
 		<dd>Mike Wu*, <b>Kristy Choi*</b>, Noah Goodman, Stefano Ermon</dd>
 		<dd>International Conference on Image Analysis and Recognition (ICIAR), 2019.</dd>
-<!-- 				<dd><i>Bayesian Deep Learning Workshop, NeurIPS 2019. </i><strong>Spotlight.</strong></dd> -->
 		<dd><a href="https://arxiv.org/pdf/1911.05245.pdf">[arXiv]</a></dd>
 	</dl>
 	<dl>
@@ -77,12 +76,6 @@ nav-menu: true
 		<dd><a href="https://arxiv.org/pdf/2002.09035.pdf">[arXiv]</a>
 	</dl>
 
-<hr class="major" />
 
-
-<!-- Text stuff -->
-
-
-</section>
 
 </div>
