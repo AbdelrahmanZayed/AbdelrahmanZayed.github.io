@@ -6,12 +6,10 @@ description: 'PhD student in Computer science'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address:
 city:
 state:
 zip_code:
 country:
-phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
