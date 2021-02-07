@@ -35,10 +35,6 @@ nav-menu: true
 		<h3>Neuroscience</h3>
 	</div>
 </div>
-</div>
-
-<section id="two">
-	<div class="inner">
 		<header class="major">
 			<h1>Publications</h1>
 		</header>
