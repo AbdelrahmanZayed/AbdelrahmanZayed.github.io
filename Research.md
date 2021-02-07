@@ -67,12 +67,12 @@ nav-menu: true
 		<dt>Automatic Frame Selection using CNN in Ultrasound Elastography.</dt>
 		<dd><b>Kristy Choi</b>, Curtis Hawthorne, Ian Simon, Monica Dinculescu, Jesse Engel</dd>
 		<dd><i>Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS), 2020.</i></dd>
-		<dd><a href="https://arxiv.org/pdf/2002.06734.pdf">[arXiv]</a>
+		<dd><a href="https://arxiv.org/pdf/2002.06734.pdf">[arXiv]</a></dd>
 	</dl>
 	<dl>
 		<dt>Rapid Quantification of White Matter Disconnection in the Human Brain.</dt>
 		<dd><b>Kristy Choi*</b>, Aditya Grover*, Trisha Singh, Rui Shu, Stefano Ermon</dd>
 		<dd><i>Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS), 2020.</i></dd>
-		<dd><a href="https://arxiv.org/pdf/2002.09035.pdf">[arXiv]</a>
+		<dd><a href="https://arxiv.org/pdf/2002.09035.pdf">[arXiv]</a></dd>
 	</dl>
 </div>
