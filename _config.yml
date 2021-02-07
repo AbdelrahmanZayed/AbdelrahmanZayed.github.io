@@ -1,7 +1,7 @@
 # site settings
 title: Abdelrahman
 subtitle: Zayed
-email: mailto:abdel.zayed.1@gmail.com
+email: abdel.zayed.1@gmail.com
 description: 'PhD student in Computer science'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
