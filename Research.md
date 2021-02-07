@@ -35,18 +35,13 @@ nav-menu: true
 		<h3>Neuroscience</h3>
 	</div>
 </div>
-
-<hr class="major" />
-
-
-<!-- Text stuff -->
-
-
 </div>
-</section>
 
-</div>
-	<h1>Publications</h1>
+<section id="two">
+	<div class="inner">
+		<header class="major">
+			<h1>Publications</h1>
+		</header>
 	<dl>
 		<dt>Ultrasound Elastography using Machine Learning.</dt>
 		<dd><b>Kristy Choi</b>, Curtis Hawthorne, Ian Simon, Monica Dinculescu, Jesse Engel</dd>
@@ -86,4 +81,12 @@ nav-menu: true
 		<dd><a href="https://arxiv.org/pdf/1911.05242.pdf">[arXiv]</a></dd>
 	</dl>
 
+<hr class="major" />
 
+
+<!-- Text stuff -->
+
+
+</section>
+
+</div>
