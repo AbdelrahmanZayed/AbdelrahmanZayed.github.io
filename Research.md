@@ -35,6 +35,41 @@ nav-menu: true
 		<h3>Neuroscience</h3>
 	</div>
 </div>
+		<h3>Publications</h3>
+		<dl>
+			<dt>Encoding Musical Style with Transformer Autoencoders.</dt>
+			<dd><b>Kristy Choi</b>, Curtis Hawthorne, Ian Simon, Monica Dinculescu, Jesse Engel</dd>
+			<dd><i>International Conference of Machine Learning (ICML), 2020.</i></dd>
+			<dd><a href="http://arxiv.org/abs/1912.05537">[arXiv]</a>
+			<a href="https://github.com/magenta/magenta/tree/master/magenta/models/score2perf">[code]</a></dd>
+		</dl>
+		<dl>
+			<dt>Fair Generative Modeling via Weak Supervision.</dt>
+			<dd><b>Kristy Choi*</b>, Aditya Grover*, Trisha Singh, Rui Shu, Stefano Ermon</dd>
+			<dd><i>International Conference of Machine Learning (ICML), 2020.</i></dd>
+			<dd><a href="https://arxiv.org/abs/1910.12008">[arXiv]</a>
+			<a href="https://github.com/ermongroup/fairgen">[code]</a></dd>
+		</dl>
+		<dl>
+			<dt>Meta-Amortized Variational Inference and Learning.</dt>
+			<dd>Mike Wu*, <b>Kristy Choi*</b>, Noah Goodman, Stefano Ermon</dd>
+			<dd>AAAI Conference on Artificial Intelligence (AAAI), 2020.</dd>
+<!-- 				<dd><i>Bayesian Deep Learning Workshop, NeurIPS 2019. </i><strong>Spotlight.</strong></dd> -->
+			<dd><a href="https://arxiv.org/abs/1902.01950">[arXiv]</a></dd>
+		</dl>
+		<dl>
+			<dt>Neural Joint-Source Channel Coding.</dt>
+			<dd><b>Kristy Choi</b>, Kedar Tatwawadi, Aditya Grover, Tsachy Weissman, Stefano Ermon.</dd>
+			<dd><i>International Conference of Machine Learning (ICML), 2019.</i> <strong>Long oral.</strong></dd>
+			<dd><a href="http://proceedings.mlr.press/v97/choi19a/choi19a.pdf">[pdf]</a>
+			<a href="https://github.com/ermongroup/necst">[code]</a></dd>
+		</dl>
+		<dl>
+			<dt>Wishbone identifies bifurcating developmental trajectories from single-cell data.</dt>
+			<dd>Manu Setty, Michelle Tadmor, Shlomit Reich-Zeliger, Omer Angel, Tomer Salame, Pooja Kathail, <b>Kristy Choi</b>, Sean Bendall, Nir Friedman, Dana Pe'er.</dd>
+			<dd><i>Nature Biotechnology, 34(6), 637-645.</i></dd>
+			<dd><a href="http://www.nature.com/nbt/journal/v34/n6/full/nbt.3569.html">[pdf]</a></dd>
+		</dl>
 		<header class="major">
 			<h1>Publications</h1>
 		</header>
