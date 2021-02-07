@@ -47,19 +47,16 @@ nav-menu: true
 		<dd><b>Kristy Choi</b>, Curtis Hawthorne, Ian Simon, Monica Dinculescu, Jesse Engel</dd>
 		<dd><i>Master's Thesis, 2020.</i></dd>
 		<dd><a href="https://spectrum.library.concordia.ca/986744/1/Zayed_MASc_S2020.pdf">[Link]</a>
-	</dl>
 	<dl>
 		<dt>Automatic Frame Selection using CNN in Ultrasound Elastography.</dt>
 		<dd><b>Kristy Choi</b>, Curtis Hawthorne, Ian Simon, Monica Dinculescu, Jesse Engel</dd>
 		<dd><i>Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS), 2020.</i></dd>
 		<dd><a href="https://arxiv.org/pdf/2002.06734.pdf">[arXiv]</a>
-	</dl>
 	<dl>
 		<dt>Rapid Quantification of White Matter Disconnection in the Human Brain.</dt>
 		<dd><b>Kristy Choi*</b>, Aditya Grover*, Trisha Singh, Rui Shu, Stefano Ermon</dd>
 		<dd><i>Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS), 2020.</i></dd>
 		<dd><a href="https://arxiv.org/pdf/2002.09035.pdf">[arXiv]</a>
-	</dl>
 	<dl>
 		<dt>Automatic Frame Selection Using MLP Neural Network in Ultrasound Elastography.</dt>
 		<dd>Mike Wu*, <b>Kristy Choi*</b>, Noah Goodman, Stefano Ermon</dd>
