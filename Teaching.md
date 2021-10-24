@@ -21,6 +21,9 @@ nav-menu: true
 	</div>
 	<div class="10u$ 10u$(small)">
 		<h3>Applied machine learning at Polytechnique Montreal (Fall 2020)</h3>
+	</div>
+	<div class="10u$ 10u$(small)">
+		<h3>Applied machine learning at Polytechnique Montreal (Fall 2021)</h3>		
 </div>
 
 
