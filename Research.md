@@ -16,7 +16,7 @@ nav-menu: true
 <!-- Content -->
 <div class="column">
 	<div class="60u 5u$(small)">
-		<h3>Natural language processing, fairness, causal inference, and medical imaging.</h3>
+		<h3>Natural language processing, causal inference, fairness, and medical imaging.</h3>
 	</div>
 </div>
 		<header class="major">
