@@ -16,7 +16,7 @@ nav-menu: true
 <!-- Content -->
 <div class="column">
 	<div class="60u 5u$(small)">
-		<h3>Recurrent neural networks, natural language processing, reinforcement learning, lifelong learning, medical imaging and neuroscience.</h3>
+		<h3>Natural language processing, fairness, causal inference, and medical imaging.</h3>
 	</div>
 </div>
 		<header class="major">
