@@ -16,12 +16,18 @@ nav-menu: true
 <!-- Content -->
 <div class="column">
 	<div class="60u 5u$(small)">
-		<h3>Natural language processing, causal inference, fairness, and medical imaging.</h3>
+		<h3>Natural language processing, fairness, causal inference, and medical imaging.</h3>
 	</div>
 </div>
 		<header class="major">
 			<h1>Publications</h1>
 		</header>
+	<dl>
+		<dt>Deep Learning on a Healthy Data Diet: Finding Important Examples for Fairness.</dt>
+		<dd><b>A. Zayed</b>, Prasanna Parthasarathi, Goncalo Mordido, Hamid Palangi, Samira Shabanian, Sarath Chandar</dd> 
+		<dd><i>The thirty-seventh Association for the Advancement of Artificial Intelligence (AAAI 2023).</i></dd>
+		<dd><a href="https://arxiv.org/abs/2211.11109">[Link]</a></dd>
+	</dl> 		
 	<dl>
 		<dt>Ultrasound Elastography using Machine Learning.</dt>
 		<dd><b>A. Zayed</b></dd>
