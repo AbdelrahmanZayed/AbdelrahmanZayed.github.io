@@ -30,7 +30,6 @@ nav-menu: true
 		<dd><a href="https://arxiv.org/pdf/2312.15398.pdf">[arXiv]</a>
 		<a href="https://github.com/AbdelrahmanZayed/AbdelrahmanZayed.github.io/raw/master/assets/FASP_slides.pdf">[slides]</a></dd>
 	</dl>
- 	</dl>
 		<dt>Deep Learning on a Healthy Data Diet: Finding Important Examples for Fairness.</dt>
 		<dd><b>A. Zayed</b>, Prasanna Parthasarathi, Goncalo Mordido, Hamid Palangi, Samira Shabanian, Sarath Chandar</dd> 
 		<dd><i>The thirty-seventh Association for the Advancement of Artificial Intelligence (AAAI 2023).</i></dd>
