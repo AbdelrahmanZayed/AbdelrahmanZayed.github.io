@@ -23,12 +23,6 @@ nav-menu: true
 			<h1>Publications</h1>
 		</header>
 
-  	<dl>  
-		<dt>Fairness-Aware Structured Pruning in Transformers.</dt>
-		<dd><b>A. Zayed</b>, Goncalo Mordido, Samira Shabanian, Ioana Baldini, Sarath Chandar</dd> 
-		<dd><i>The thirty-eighth Association for the Advancement of Artificial Intelligence (AAAI 2024).</i></dd>
-		<dd><a href="https://arxiv.org/pdf/2312.15398.pdf">[arXiv]</a>
-		<a href="https://github.com/AbdelrahmanZayed/AbdelrahmanZayed.github.io/raw/master/assets/FASP_slides.pdf">[slides]</a></dd>
 	</dl>
 		<dt>Deep Learning on a Healthy Data Diet: Finding Important Examples for Fairness.</dt>
 		<dd><b>A. Zayed</b>, Prasanna Parthasarathi, Goncalo Mordido, Hamid Palangi, Samira Shabanian, Sarath Chandar</dd> 
