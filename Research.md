@@ -28,7 +28,7 @@ nav-menu: true
 		<dd><b>A. Zayed</b>, Goncalo Mordido, Samira Shabanian, Ioana Baldini, Sarath Chandar</dd> 
 		<dd><i>The thirty-eighth Association for the Advancement of Artificial Intelligence (AAAI 2024).</i></dd>
 		<dd><a href="https://arxiv.org/pdf/2312.15398.pdf">[arXiv]</a>
-		<a href="https://github.com/AbdelrahmanZayed/AbdelrahmanZayed.github.io/raw/master/assets/healthy_data_diet_slides.pdf">[slides]</a>
+		<a href="https://github.com/AbdelrahmanZayed/AbdelrahmanZayed.github.io/blob/master/assets/FASP_slides.pdf">[slides]</a>
 		<a href="https://drive.google.com/file/d/1K0Vr8kYY2q1Uapo3pPkUIhByL5trfEed/view?usp=sharing">[video]</a></dd>
 	</dl> 		
 	<dl> 
