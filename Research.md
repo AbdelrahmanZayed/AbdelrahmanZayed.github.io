@@ -28,6 +28,7 @@ nav-menu: true
 		<dd><i>The thirty-eighth Association for the Advancement of Artificial Intelligence (AAAI 2024).</i></dd>
 		<dd><a href="https://arxiv.org/pdf/2312.15398.pdf">[arXiv]</a>
 		<a href="https://github.com/AbdelrahmanZayed/AbdelrahmanZayed.github.io/raw/master/assets/FASP_slides.pdf">[slides]</a></dd>
+        <a href="https://drive.google.com/file/d/1Zag6z3zCz43AOMIgQSiQ4ZJOp4fyqZwj/view?usp=sharing">[video]</a></dd>
 	</dl> 	
 	<dl> 
 		<dt>Deep Learning on a Healthy Data Diet: Finding Important Examples for Fairness.</dt>
