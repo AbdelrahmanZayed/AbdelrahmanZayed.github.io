@@ -75,9 +75,9 @@ nav-menu: true
 	</dl>
 	<dl>
 		<dt>Automatic Frame Selection Using MLP Neural Network in Ultrasound Elastography.</dt>
-		<dd><b>A. Zayed</b> and H. Rivaz.</dd>
-		<dd>International Conference on Image Analysis and Recognition (ICIAR), 2019.</dd>
-		<dd><a href="https://arxiv.org/pdf/1911.05245.pdf">[arXiv]</a></dd>
+		<dt><b>A. Zayed</b> and H. Rivaz.</dt>
+		<dt>International Conference on Image Analysis and Recognition (ICIAR), 2019.</dt>
+		<dt><a href="https://arxiv.org/pdf/1911.05245.pdf">[arXiv]</a></dt>
 	</dl>
 	<dl>
 		<dt>Fast approximate time-delay estimation in ultrasound elastography using principal component analysis.</dt>
