@@ -63,19 +63,19 @@ nav-menu: true
 	</dl>
 	<dl>
 		<dt>Automatic Frame Selection using CNN in Ultrasound Elastography.</dt>
-		<dt><b>A. Zayed</b>, G. Cloutier and H. Rivaz</dt>
+		<i><b>A. Zayed</b>, G. Cloutier and H. Rivaz</i>
 		<dt><i>Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS), 2020.</i></dt>
 		<dt><a href="https://arxiv.org/pdf/2002.06734.pdf">[arXiv]</a></dt>
 	</dl>
 	<dl>
 		<dt>Rapid Quantification of White Matter Disconnection in the Human Brain.</dt>
-		<dt><b>A. Zayed</b>, Y. Iturria-Medina, A. Villringer, B. Sehm and C. Steele</dt>
+		<i><b>A. Zayed</b>, Y. Iturria-Medina, A. Villringer, B. Sehm and C. Steele</i>
 		<dt>Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS), 2020.</dt>
 		<dt><a href="https://arxiv.org/pdf/2002.09035.pdf">[arXiv]</a></dt>
 	</dl>
 	<dl>
 		<dt>Automatic Frame Selection Using MLP Neural Network in Ultrasound Elastography.</dt>
-		<dt><b>A. Zayed</b> and H. Rivaz.</dt>
+		<i><b>A. Zayed</b> and H. Rivaz.</i>
 		<dt>International Conference on Image Analysis and Recognition (ICIAR), 2019.</dt>
 		<dt><a href="https://arxiv.org/pdf/1911.05245.pdf">[arXiv]</a></dt>
 	</dl>
