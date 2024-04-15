@@ -28,7 +28,7 @@ nav-menu: true
 		<img src="figures/aaai_24.png" width="400">
 		<p style="text-align: center;"> </p>
 		</div>
-		<dd><b>A. Zayed</b>, Goncalo Mordido, Samira Shabanian, Ioana Baldini, Sarath Chandar</dd> 
+		<b>A. Zayed</b>, Goncalo Mordido, Samira Shabanian, Ioana Baldini, Sarath Chandar 
 		<dd><i>The thirty-eighth Association for the Advancement of Artificial Intelligence (AAAI 2024).</i></dd>
 		<dd><i>TL;DR:  We show that certain attention heads in transformers are responsible for bias and pruning them improves fairness.</i></dd>
 		<dd><a href="https://arxiv.org/pdf/2312.15398.pdf">[arXiv]</a>
