@@ -24,6 +24,10 @@ nav-menu: true
 		</header>
 	<dl> 
 		<dt>Fairness-Aware Structured Pruning in Transformers.</dt>
+		<div style="text-align: center">
+		<img src="figures/aaai_24.png" width="400">
+		<p style="text-align: center;"> </p>
+		</div>
 		<dd><b>A. Zayed</b>, Goncalo Mordido, Samira Shabanian, Ioana Baldini, Sarath Chandar</dd> 
 		<dd><i>The thirty-eighth Association for the Advancement of Artificial Intelligence (AAAI 2024).</i></dd>
 		<dd><a href="https://arxiv.org/pdf/2312.15398.pdf">[arXiv]</a>
