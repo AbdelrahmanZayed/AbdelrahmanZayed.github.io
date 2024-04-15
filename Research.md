@@ -36,7 +36,7 @@ nav-menu: true
         <a href="https://drive.google.com/file/d/1Zag6z3zCz43AOMIgQSiQ4ZJOp4fyqZwj/view?usp=sharing">[video]</a></dt>
 	</dl> 	
 	<dl> 
-		<dt>Deep Learning on a Healthy Data Diet: Finding Important Examples for Fairness.</dt>
+		<em>Deep Learning on a Healthy Data Diet: Finding Important Examples for Fairness.</em>
 		<div style="text-align: left">
 		<img src="figures/aaai_23.png" width="400">
 		<p style="text-align: left;"> </p>
