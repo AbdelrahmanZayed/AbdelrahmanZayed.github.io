@@ -70,13 +70,13 @@ nav-menu: true
 	<dl>
 		<dt>Rapid Quantification of White Matter Disconnection in the Human Brain.</dt>
 		<i><b>A. Zayed</b>, Y. Iturria-Medina, A. Villringer, B. Sehm and C. Steele</i>
-		<dt>Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS), 2020.</dt>
+		<i>Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS), 2020.</i>
 		<dt><a href="https://arxiv.org/pdf/2002.09035.pdf">[arXiv]</a></dt>
 	</dl>
 	<dl>
 		<dt>Automatic Frame Selection Using MLP Neural Network in Ultrasound Elastography.</dt>
 		<i><b>A. Zayed</b> and H. Rivaz.</i>
-		<dt>International Conference on Image Analysis and Recognition (ICIAR), 2019.</dt>
+		<i>International Conference on Image Analysis and Recognition (ICIAR), 2019.</i>
 		<dt><a href="https://arxiv.org/pdf/1911.05245.pdf">[arXiv]</a></dt>
 	</dl>
 	<dl>
