@@ -57,7 +57,7 @@ nav-menu: true
 	<dl>
 		<dt>Fast Strain Estimation and Frame Selection in Ultrasound Elastography using Machine Learning.</dt>
 		<i><b>A. Zayed</b> and H. Rivaz.</i>
-		<i><i>IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (TUFFC), 2020.</i></i>
+		<dt><i>IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (TUFFC), 2020.</dt></i>
 		<dt><a href="https://ieeexplore.ieee.org/abstract/document/9091615">[Link]</a>
 		<a href="https://github.com/AbdelrahmanZayed/PCA-GLUE_Ultrasound_Elastography">[code]</a></dt>
 	</dl>
@@ -70,7 +70,7 @@ nav-menu: true
 	<dl>
 		<dt>Rapid Quantification of White Matter Disconnection in the Human Brain.</dt>
 		<i><b>A. Zayed</b>, Y. Iturria-Medina, A. Villringer, B. Sehm and C. Steele</i>
-		<i>Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS), 2020.</i>
+		<dt>Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS), 2020.</dt>
 		<dt><a href="https://arxiv.org/pdf/2002.09035.pdf">[arXiv]</a></dt>
 	</dl>
 	<dl>
@@ -81,7 +81,7 @@ nav-menu: true
 	</dl>
 	<dl>
 		<dt>Fast approximate time-delay estimation in ultrasound elastography using principal component analysis.</dt>
-		<i><b>A. Zayed</b> and H. Rivaz.<i>
+		<i><b>A. Zayed</b> and H. Rivaz.</i>
 		<dt>Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS), 2019.<dt>
 		<dt><a href="https://arxiv.org/pdf/1911.05242.pdf">[arXiv]</a></dt>
 	</dl>
