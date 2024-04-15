@@ -51,33 +51,33 @@ nav-menu: true
 	<dl>
 		<dt>Ultrasound Elastography using Machine Learning.</dt>
 		<dt><b>A. Zayed</b></dt>
-		<dt><i>Master's Thesis, 2020.</i></dt>
-		<dt><a href="https://spectrum.library.concordia.ca/986744/1/Zayed_MASc_S2020.pdf">[Link]</a></dt>
+		<i><i>Master's Thesis, 2020.</i></i>
+		<dt><a href="https://spectrum.library.concordia.ca/986744/1/Zayed_MASc_S2020.pdf">[Link]</a></i>
 	</dl> 
 	<dl>
 		<dt>Fast Strain Estimation and Frame Selection in Ultrasound Elastography using Machine Learning.</dt>
 		<dt><b>A. Zayed</b> and H. Rivaz.</dt>
-		<dt><i>IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (TUFFC), 2020.</i></dt>
+		<i><i>IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (TUFFC), 2020.</i></i>
 		<dt><a href="https://ieeexplore.ieee.org/abstract/document/9091615">[Link]</a>
-		<a href="https://github.com/AbdelrahmanZayed/PCA-GLUE_Ultrasound_Elastography">[code]</a></dt>
+		<a href="https://github.com/AbdelrahmanZayed/PCA-GLUE_Ultrasound_Elastography">[code]</a></i>
 	</dl>
 	<dl>
 		<dt>Automatic Frame Selection using CNN in Ultrasound Elastography.</dt>
 		<dt><b>A. Zayed</b>, G. Cloutier and H. Rivaz</dt>
-		<dt><i>Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS), 2020.</i></dt>
-		<dt><a href="https://arxiv.org/pdf/2002.06734.pdf">[arXiv]</a></dt>
+		<i><i>Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS), 2020.</i></i>
+		<dt><a href="https://arxiv.org/pdf/2002.06734.pdf">[arXiv]</a></i>
 	</dl>
 	<dl>
 		<dt>Rapid Quantification of White Matter Disconnection in the Human Brain.</dt>
 		<dt><b>A. Zayed</b>, Y. Iturria-Medina, A. Villringer, B. Sehm and C. Steele</dt>
-		<dt><i>Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS), 2020.</i></dt>
-		<dt><a href="https://arxiv.org/pdf/2002.09035.pdf">[arXiv]</a></dt>
+		<i><i>Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS), 2020.</i></i>
+		<dt><a href="https://arxiv.org/pdf/2002.09035.pdf">[arXiv]</a></i>
 	</dl>
 	<dl>
 		<dt>Automatic Frame Selection Using MLP Neural Network in Ultrasound Elastography.</dt>
 		<dt><b>A. Zayed</b> and H. Rivaz.</dt>
-		<dt>International Conference on Image Analysis and Recognition (ICIAR), 2019.</dt>
-		<dt><a href="https://arxiv.org/pdf/1911.05245.pdf">[arXiv]</a></dt>
+		<i>International Conference on Image Analysis and Recognition (ICIAR), 2019.</i>
+		<dt><a href="https://arxiv.org/pdf/1911.05245.pdf">[arXiv]</a></i>
 	</dl>
 	<dl>
 		<dt>Fast approximate time-delay estimation in ultrasound elastography using principal component analysis.</dt>
