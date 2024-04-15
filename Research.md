@@ -43,7 +43,7 @@ nav-menu: true
 		</div>
 		<dt><b>A. Zayed</b>, Prasanna Parthasarathi, Goncalo Mordido, Hamid Palangi, Samira Shabanian, Sarath Chandar</dt> 
 		<dt><i>The thirty-seventh Association for the Advancement of Artificial Intelligence (AAAI 2023).</i></dt>
-		<dt><i>TL;DR:  We quantify the contribution of each training example to the model's fairness, and provide a recipe to choose the best training examples to reduce bias.</i></dt>
+		<i>TL;DR:  We quantify the contribution of each training example to the model's fairness, and provide a recipe to choose the best training examples to reduce bias.</i>
 		<dt><a href="https://arxiv.org/pdf/2211.11109.pdf">[arXiv]</a>
 		<a href="https://github.com/AbdelrahmanZayed/AbdelrahmanZayed.github.io/raw/master/assets/healthy_data_diet_slides.pdf">[slides]</a>
 		<a href="https://drive.google.com/file/d/1K0Vr8kYY2q1Uapo3pPkUIhByL5trfEed/view?usp=sharing">[video]</a></dt>
