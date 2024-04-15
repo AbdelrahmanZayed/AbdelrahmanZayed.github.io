@@ -36,6 +36,10 @@ nav-menu: true
 	</dl> 	
 	<dl> 
 		<dt>Deep Learning on a Healthy Data Diet: Finding Important Examples for Fairness.</dt>
+		<div style="text-align: center">
+		<img src="figures/aaai_23.png" width="400">
+		<p style="text-align: center;"> </p>
+		</div>
 		<dd><b>A. Zayed</b>, Prasanna Parthasarathi, Goncalo Mordido, Hamid Palangi, Samira Shabanian, Sarath Chandar</dd> 
 		<dd><i>The thirty-seventh Association for the Advancement of Artificial Intelligence (AAAI 2023).</i></dd>
 		<dd><a href="https://arxiv.org/pdf/2211.11109.pdf">[arXiv]</a>
