@@ -81,7 +81,7 @@ nav-menu: true
 	</dl>
 	<dl>
 		<dt>Fast approximate time-delay estimation in ultrasound elastography using principal component analysis.</dt>
-		<i><b>A. Zayed</b> and H. Rivaz.<i>
+		<b>A. Zayed</b> and H. Rivaz.
 		<dt>Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS), 2019.<dt>
 		<dt><a href="https://arxiv.org/pdf/1911.05242.pdf">[arXiv]</a></dt>
 	</dl>
