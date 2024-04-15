@@ -64,7 +64,7 @@ nav-menu: true
 	<dl>
 		<dt>Automatic Frame Selection using CNN in Ultrasound Elastography.</dt>
 		<i><b>A. Zayed</b>, G. Cloutier and H. Rivaz</i><br>
-		<i><i>Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS), 2020.</i></i>
+		<i>Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS), 2020.</i>
 		<dt><a href="https://arxiv.org/pdf/2002.06734.pdf">[arXiv]</a></dt>
 	</dl>
 	<dl>
@@ -76,13 +76,13 @@ nav-menu: true
 	<dl>
 		<dt>Automatic Frame Selection Using MLP Neural Network in Ultrasound Elastography.</dt>
 		<i><b>A. Zayed</b> and H. Rivaz.</i><br>
-		<i>International Conference on Image Analysis and Recognition (ICIAR), 2019.<i>
+		<i>International Conference on Image Analysis and Recognition (ICIAR), 2019.</i>
 		<dt><a href="https://arxiv.org/pdf/1911.05245.pdf">[arXiv]</a></dt>
 	</dl>
 	<dl>
 		<dt>Fast approximate time-delay estimation in ultrasound elastography using principal component analysis.</dt>
 		<i><b>A. Zayed</b> and H. Rivaz.</i><br>
-		<i>Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS), 2019.<i>
+		<i>Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS), 2019.</i>
 		<dt><a href="https://arxiv.org/pdf/1911.05242.pdf">[arXiv]</a></dt>
 	</dl>
 </div>
