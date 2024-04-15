@@ -57,7 +57,7 @@ nav-menu: true
 	<dl>
 		<dt>Fast Strain Estimation and Frame Selection in Ultrasound Elastography using Machine Learning.</dt>
 		<i><b>A. Zayed</b> and H. Rivaz.</i>
-		<dt><i>IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (TUFFC), 2020.</i></dt>
+		<i><i>IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (TUFFC), 2020.</i></i>
 		<dt><a href="https://ieeexplore.ieee.org/abstract/document/9091615">[Link]</a>
 		<a href="https://github.com/AbdelrahmanZayed/PCA-GLUE_Ultrasound_Elastography">[code]</a></dt>
 	</dl>
