@@ -28,8 +28,8 @@ nav-menu: true
 		<img src="figures/aaai_24.png" width="400">
 		<p style="text-align: center;"> </p>
 		</div>
-		<dt><b>A. Zayed</b>, Goncalo Mordido, Samira Shabanian, Ioana Baldini, Sarath Chandar</dt>
-		<dt><i>The thirty-eighth Association for the Advancement of Artificial Intelligence (AAAI 2024).</i></dt>
+		<i><b>A. Zayed</b>, Goncalo Mordido, Samira Shabanian, Ioana Baldini, Sarath Chandar</i>
+		<i><i>The thirty-eighth Association for the Advancement of Artificial Intelligence (AAAI 2024).</i></i>
 		<i>TL;DR:  We show that certain attention heads in transformers are responsible for bias and pruning them improves fairness.</i>
 		<dt><a href="https://arxiv.org/pdf/2312.15398.pdf">[arXiv]</a>
 		<a href="https://github.com/AbdelrahmanZayed/AbdelrahmanZayed.github.io/raw/master/assets/FASP_slides.pdf">[slides]</a>
@@ -41,8 +41,8 @@ nav-menu: true
 		<img src="figures/aaai_23.png" width="400">
 		<p style="text-align: left;"> </p>
 		</div>
-		<dt><b>A. Zayed</b>, Prasanna Parthasarathi, Goncalo Mordido, Hamid Palangi, Samira Shabanian, Sarath Chandar</dt> 
-		<dt><i>The thirty-seventh Association for the Advancement of Artificial Intelligence (AAAI 2023).</i></dt>
+		<i><b>A. Zayed</b>, Prasanna Parthasarathi, Goncalo Mordido, Hamid Palangi, Samira Shabanian, Sarath Chandar</i> 
+		<i><i>The thirty-seventh Association for the Advancement of Artificial Intelligence (AAAI 2023).</i></i>
 		<i>TL;DR:  We quantify the contribution of each training example to the model's fairness, and provide a recipe to choose the best training examples to reduce bias.</i>
 		<dt><a href="https://arxiv.org/pdf/2211.11109.pdf">[arXiv]</a>
 		<a href="https://github.com/AbdelrahmanZayed/AbdelrahmanZayed.github.io/raw/master/assets/healthy_data_diet_slides.pdf">[slides]</a>
@@ -50,38 +50,38 @@ nav-menu: true
 	</dl> 		
 	<dl>
 		<dt>Ultrasound Elastography using Machine Learning.</dt>
-		<dt><b>A. Zayed</b></dt>
+		<i><b>A. Zayed</b></i>
 		<i><i>Master's Thesis, 2020.</i></i>
 		<dt><a href="https://spectrum.library.concordia.ca/986744/1/Zayed_MASc_S2020.pdf">[Link]</a></dt>
 	</dl> 
 	<dl>
 		<dt>Fast Strain Estimation and Frame Selection in Ultrasound Elastography using Machine Learning.</dt>
-		<dt><b>A. Zayed</b> and H. Rivaz.</dt>
+		<i><b>A. Zayed</b> and H. Rivaz.</i>
 		<i><i>IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (TUFFC), 2020.</i></i>
 		<dt><a href="https://ieeexplore.ieee.org/abstract/document/9091615">[Link]</a>
 		<a href="https://github.com/AbdelrahmanZayed/PCA-GLUE_Ultrasound_Elastography">[code]</a></dt>
 	</dl>
 	<dl>
 		<dt>Automatic Frame Selection using CNN in Ultrasound Elastography.</dt>
-		<dt><b>A. Zayed</b>, G. Cloutier and H. Rivaz</dt>
+		<i><b>A. Zayed</b>, G. Cloutier and H. Rivaz</i>
 		<i><i>Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS), 2020.</i></i>
 		<dt><a href="https://arxiv.org/pdf/2002.06734.pdf">[arXiv]</a></dt>
 	</dl>
 	<dl>
 		<dt>Rapid Quantification of White Matter Disconnection in the Human Brain.</dt>
-		<dt><b>A. Zayed</b>, Y. Iturria-Medina, A. Villringer, B. Sehm and C. Steele</dt>
+		<i><b>A. Zayed</b>, Y. Iturria-Medina, A. Villringer, B. Sehm and C. Steele</i>
 		<i><i>Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS), 2020.</i></i>
 		<dt><a href="https://arxiv.org/pdf/2002.09035.pdf">[arXiv]</a></dt>
 	</dl>
 	<dl>
 		<dt>Automatic Frame Selection Using MLP Neural Network in Ultrasound Elastography.</dt>
-		<dt><b>A. Zayed</b> and H. Rivaz.</dt>
+		<i><b>A. Zayed</b> and H. Rivaz.</i>
 		<i>International Conference on Image Analysis and Recognition (ICIAR), 2019.</i>
 		<dt><a href="https://arxiv.org/pdf/1911.05245.pdf">[arXiv]</a></dt>
 	</dl>
 	<dl>
 		<dt>Fast approximate time-delay estimation in ultrasound elastography using principal component analysis.</dt>
-		<dt><b>A. Zayed</b> and H. Rivaz.</dt>
+		<i><b>A. Zayed</b> and H. Rivaz.</i>
 		<i>Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS), 2019.</i>
 		<dt><a href="https://arxiv.org/pdf/1911.05242.pdf">[arXiv]</a></dt>
 	</dl>
