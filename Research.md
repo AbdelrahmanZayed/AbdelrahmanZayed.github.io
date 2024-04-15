@@ -36,7 +36,7 @@ nav-menu: true
         <a href="https://drive.google.com/file/d/1Zag6z3zCz43AOMIgQSiQ4ZJOp4fyqZwj/view?usp=sharing">[video]</a></dt>
 	</dl> 	
 	<dl> 
-		<em>Deep Learning on a Healthy Data Diet: Finding Important Examples for Fairness.</em>
+		<dt>Deep Learning on a Healthy Data Diet: Finding Important Examples for Fairness.</dt>
 		<div style="text-align: left">
 		<img src="figures/aaai_23.png" width="400">
 		<p style="text-align: left;"> </p>
@@ -81,8 +81,8 @@ nav-menu: true
 	</dl>
 	<dl>
 		<dt>Fast approximate time-delay estimation in ultrasound elastography using principal component analysis.</dt>
-		<i><b>A. Zayed</b> and H. Rivaz.</i>
-		<dt>Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS), 2019.<dt>
+		<i><b>A. Zayed</b> and H. Rivaz.</i><br>
+		<i>Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS), 2019.<i>
 		<dt><a href="https://arxiv.org/pdf/1911.05242.pdf">[arXiv]</a></dt>
 	</dl>
 </div>
