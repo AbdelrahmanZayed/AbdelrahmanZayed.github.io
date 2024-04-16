@@ -15,7 +15,7 @@ More recently, I randomly bumped into someone in the metro carrying a cello, whi
 
 <img src="figures/kickboxing.jpg" width="400">
 
-I play kickboxing, although I am still not very good at it and I get punched in the face in almost every fight! I also love reading! For me, spending time reading is as exciting as spending time with one of my close friends!
+I play kickboxing, although I am still not very good at it, and I get punched in the face in almost every fight! I also love reading! For me, spending time reading is as exciting as spending time with one of my close friends!
 
 
 
