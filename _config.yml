@@ -2,7 +2,7 @@
 title: Abdelrahman
 subtitle: Zayed
 email: abdel.zayed.1@gmail.com
-description: 'PhD student in Computer science'
+description: 'Ph.D. student in Computer Science'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -20,12 +20,13 @@ tiles-count: 6
 facebook_url:
 github_url: https://github.com/AbdelrahmanZayed
 # gitlab_url:
-# googleplus_url:
+googleplus_url: https://scholar.google.com/citations?user=j2gQuA8AAAAJ&hl=en&authuser=1
 instagram_url:
 linkedin_url: https://www.linkedin.com/in/abdelrahman-zayed-669382103/
 pinterest_url:
 slack_url:
-twitter_url: 
+twitter_url: https://twitter.com/AbdelZayed1
+
 
 # build settings
 markdown: kramdown
