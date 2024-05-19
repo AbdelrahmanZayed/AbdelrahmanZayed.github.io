@@ -41,7 +41,7 @@ nav-menu: true
 		</div>
 		<i><b>A. Zayed</b>, Goncalo Mordido, Samira Shabanian, Ioana Baldini, Sarath Chandar</i><br>
 		<i>The thirty-eighth Association for the Advancement of Artificial Intelligence (AAAI 2024).</i><br>
-		<i>TL;DR:  We show that certain attention heads in transformers are responsible for bias and pruning them improves fairness.</i>
+		<i>TL;DR:  We show that certain attention heads are responsible for bias and pruning them improves fairness.</i>
 		<dt><a href="https://arxiv.org/pdf/2312.15398.pdf">[arXiv]</a>
 		<a href="https://github.com/AbdelrahmanZayed/AbdelrahmanZayed.github.io/raw/master/assets/FASP_slides.pdf">[slides]</a>
         <a href="https://drive.google.com/file/d/1Zag6z3zCz43AOMIgQSiQ4ZJOp4fyqZwj/view?usp=sharing">[video]</a></dt>
@@ -54,7 +54,7 @@ nav-menu: true
 		</div>
 		<i><b>A. Zayed</b>, Prasanna Parthasarathi, Goncalo Mordido, Hamid Palangi, Samira Shabanian, Sarath Chandar</i><br> 
 		<i>The thirty-seventh Association for the Advancement of Artificial Intelligence (AAAI 2023).</i><br>
-		<i>TL;DR:  We quantify the contribution of each training example to the model's fairness, and choose the best training examples to reduce bias.</i>
+		<i>TL;DR:  We quantify the contribution of each training example to fairness, and choose the best training examples to reduce bias.</i>
 		<dt><a href="https://arxiv.org/pdf/2211.11109.pdf">[arXiv]</a>
 		<a href="https://github.com/AbdelrahmanZayed/AbdelrahmanZayed.github.io/raw/master/assets/healthy_data_diet_slides.pdf">[slides]</a>
 		<a href="https://drive.google.com/file/d/1K0Vr8kYY2q1Uapo3pPkUIhByL5trfEed/view?usp=sharing">[video]</a></dt>
