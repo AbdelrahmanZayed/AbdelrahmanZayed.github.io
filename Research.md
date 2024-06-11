@@ -32,6 +32,7 @@ nav-menu: true
 		<i><b>A. Zayed</b>, Goncalo Mordido, Ioana Baldini, Sarath Chandar</i><br>
 		<i>The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024).</i><br>
 		<i>TL;DR:  We explain why fairness metrics don't correlate and propose CAIRO to make them correlate.</i>
+  		<dt><a href="https://arxiv.org/pdf/2406.05918">[arXiv]</a>
 	</dl> 	
 	<dl> 
 		<dt>Fairness-Aware Structured Pruning in Transformers.</dt>
