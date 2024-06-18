@@ -15,7 +15,7 @@ nav-menu: true
 
 <!-- Content -->
 <div class="column">
-As a researcher, I like working on anything related to the responsible use of AI, especially in natural language processing. As an Egyptian, this is how I look like when I focus on an idea I just came up with!
+I like working on anything related to the responsible use of AI, such as developing novel and efficient bias mitigation methods, and studying other harms like hate speech and hallucinations. I am also interested in developing better fairness metrics than existing ones. As an Egyptian, this is how I look like when I focus on an idea I just came up with.
 		<div style="text-align: left">
 		<img src="figures/me_working.png" width="400">
 		<p style="text-align: center;"> </p>
