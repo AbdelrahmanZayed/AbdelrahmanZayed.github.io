@@ -25,7 +25,6 @@ I like working on anything related to the responsible use of AI, such as develop
 			<h1>Publications</h1>
 		</header>
 	<dl> 
-		<i>The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024).</i><br>
 		<i>TL;DR:  We explain why fairness metrics don't correlate and propose CAIRO to make them correlate.</i><br>
   		<dt><a href="https://arxiv.org/pdf/2406.05918">[arXiv]</i>
 	<dl> 
