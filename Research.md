@@ -10,6 +10,17 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
+			<h1>Working at Mila</h1>
+		</header>
+
+<!-- Content -->
+<div class="column">
+Being surrounded by hundreds of AI researchers at Mila creates an exceptional environment to develop new ideas. It is also an awesome place to make friends from all over the world!
+		<div style="text-align: left">
+		<img src="figures/Mila_group_photo.png" width="400">
+		<p style="text-align: center;"> </p>
+		</div>
+		<header class="major">
 			<h1>What I like working on</h1>
 		</header>
 
