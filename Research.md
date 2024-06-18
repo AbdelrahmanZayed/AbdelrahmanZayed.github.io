@@ -17,7 +17,7 @@ nav-menu: true
 <div class="column">
 Being surrounded by hundreds of AI researchers at Mila creates an exceptional environment to develop new ideas. It is also an awesome place to make friends from all over the world!
 		<div style="text-align: left">
-		<img src="figures/Mila_group_photo.jpg" width="400">
+		<img src="figures/Mila_group_photo.jpg" width="800">
 		<p style="text-align: center;"> </p>
 		</div>
 		<header class="major">
