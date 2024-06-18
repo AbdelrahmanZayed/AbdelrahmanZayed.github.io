@@ -40,7 +40,7 @@ nav-menu: true
 		<p style="text-align: center;"> </p>
 		</div>
 		<i><b>A. Zayed</b>, Goncalo Mordido, Samira Shabanian, Ioana Baldini, Sarath Chandar</i><br>
-		<i><b>The thirty-eighth Association for the Advancement of Artificial Intelligence (AAAI 2024)<b></i><br>  
+		<i>The thirty-eighth Association for the Advancement of Artificial Intelligence (AAAI 2024)</i><br>  
 		<i>TL;DR:  We show that certain attention heads are responsible for bias and pruning them improves fairness </i>
 		<dt><a href="https://arxiv.org/pdf/2312.15398.pdf">[arXiv]</a>
 		<a href="https://github.com/AbdelrahmanZayed/AbdelrahmanZayed.github.io/raw/master/assets/FASP_slides.pdf">[slides]</a>
