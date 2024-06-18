@@ -9,11 +9,19 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
+		<header class="major">
+			<h1>Research interests</h1>
+		</header>
+
+<!-- Content -->
+<div class="column">
+	<div class="60u 5u$(small)">
+		<h3>Natural language processing, fairness, and medical imaging.</h3>
+	</div>
 </div>
 		<header class="major">
 			<h1>Publications</h1>
 		</header>
-
 	<dl> 
 		<dt>Why Don’t Prompt-Based Fairness Metrics Correlate?</dt>
 		<div style="text-align: left">
