@@ -32,7 +32,7 @@ I like working on anything related to the responsible use of AI, such as develop
 		</div>
 		<I><b>A. Zayed, Goncalo Mordido, Ioana Baldini, Sarath Chandar</b></i><br>
 		<I><b></b>The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)</b></i><br>
-		<i>TL;DR:  We explain why fairness metrics don't correlate and propose CAIRO to make them correlate</i><br>
+		<i><b>TL;DR:  We explain why fairness metrics don't correlate and propose CAIRO to make them correlate</b></i><br>
 		<dt><a href="https://arxiv.org/pdf/2406.05918">[arXiv]</i>
 	<dl> 
 		<dt>Fairness-Aware Structured Pruning in Transformers</dt>
