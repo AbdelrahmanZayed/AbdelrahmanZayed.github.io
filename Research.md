@@ -25,6 +25,18 @@ I like working on anything related to the responsible use of AI, such as develop
 			<h1>Publications</h1>
 		</header>
 	<dl> 
+		<dt>Fairness-Aware Structured Pruning in Transformers</dt>
+		<div style="text-align: left">
+		<img src="figures/aaai_24.png" width="400">
+		<p style="text-align: center;"> </p>
+		</div>
+		<i><b>A. Zayed</b>, Goncalo Mordido, Samira Shabanian, Ioana Baldini, Sarath Chandar</i><br>
+		<i>The thirty-eighth Association for the Advancement of Artificial Intelligence (AAAI 2024)</i><br>
+		<i>TL;DR:  We show that certain attention heads are responsible for bias and pruning them improves fairness</i><br> 
+		<dt><a href="https://arxiv.org/pdf/2312.15398.pdf">[arXiv]</a>
+		<a href="https://github.com/AbdelrahmanZayed/AbdelrahmanZayed.github.io/raw/master/assets/FASP_slides.pdf">[slides]</a>
+        <a href="https://drive.google.com/file/d/1Zag6z3zCz43AOMIgQSiQ4ZJOp4fyqZwj/view?usp=sharing">[video]</a>
+	<dl> 
 		<dt>Why Don’t Prompt-Based Fairness Metrics Correlate?</dt>
 		<div style="text-align: left">
 		<img src="figures/cairo_acl24.png" width="400">
@@ -34,7 +46,7 @@ I like working on anything related to the responsible use of AI, such as develop
 		<i>The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024).</i><br>
 		<i>TL;DR:  We explain why fairness metrics don't correlate and propose CAIRO to make them correlate.</i><br>
   		<dt><a href="https://arxiv.org/pdf/2406.05918">[arXiv]</i>
-
+	<dl> 
 		<dt>Fairness-Aware Structured Pruning in Transformers</dt>
 		<div style="text-align: left">
 		<img src="figures/aaai_24.png" width="400">
