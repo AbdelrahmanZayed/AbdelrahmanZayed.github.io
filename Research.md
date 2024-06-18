@@ -34,6 +34,7 @@ I like working on anything related to the responsible use of AI, such as develop
 		<I><b>The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)</b></i><br>
 		<i><b>TL;DR:  We explain why fairness metrics don't correlate and propose CAIRO to make them correlate</b></i><br>
 		<dt><a href="https://arxiv.org/pdf/2406.05918">[arXiv]
+	</dl> 	
 	<dl> 
 		<dt>Fairness-Aware Structured Pruning in Transformers.</dt>
 		<div style="text-align: left">
@@ -46,6 +47,7 @@ I like working on anything related to the responsible use of AI, such as develop
 		<dt><a href="https://arxiv.org/pdf/2312.15398.pdf">[arXiv]</a>
 		<a href="https://github.com/AbdelrahmanZayed/AbdelrahmanZayed.github.io/raw/master/assets/FASP_slides.pdf">[slides]</a>
         <a href="https://drive.google.com/file/d/1Zag6z3zCz43AOMIgQSiQ4ZJOp4fyqZwj/view?usp=sharing">[video]</a></dt>
+	</dl> 	
 	<dl> 
 		<dt>Deep Learning on a Healthy Data Diet: Finding Important Examples for Fairness</dt>
 		<div style="text-align: left">
