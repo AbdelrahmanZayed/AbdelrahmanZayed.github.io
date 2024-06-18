@@ -25,7 +25,6 @@ I like working on anything related to the responsible use of AI, such as develop
 			<h1>Publications</h1>
 		</header>
 	<dl> 
-		<dt>Why Don’t Prompt-Based Fairness Metrics Correlate?</dt>
 		<i>A. Zayed, Goncalo Mordido, Ioana Baldini, Sarath Chandar</i><br>
 		<i>The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024).</i><br>
 		<i>TL;DR:  We explain why fairness metrics don't correlate and propose CAIRO to make them correlate.</i><br>
