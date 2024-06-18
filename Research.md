@@ -25,7 +25,6 @@ I like working on anything related to the responsible use of AI, such as develop
 			<h1>Publications</h1>
 		</header>
 	<dl> 
-
 	<dl> 
 		<dt>Fairness-Aware Structured Pruning in Transformers</dt>
 		<div style="text-align: left">
