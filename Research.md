@@ -44,7 +44,7 @@ nav-menu: true
 		<i>TL;DR:  We show that certain attention heads are responsible for bias and pruning them improves fairness</i><br> 
 		<dt><a href="https://arxiv.org/pdf/2312.15398.pdf">[arXiv]</a>
 		<a href="https://github.com/AbdelrahmanZayed/AbdelrahmanZayed.github.io/raw/master/assets/FASP_slides.pdf">[slides]</a>
-        <a href="https://drive.google.com/file/d/1Zag6z3zCz43AOMIgQSiQ4ZJOp4fyqZwj/view?usp=sharing">[video]</a></dd>
+        <a href="https://drive.google.com/file/d/1Zag6z3zCz43AOMIgQSiQ4ZJOp4fyqZwj/view?usp=sharing">[video]</a>
 	<dl> 
 		<dt>Deep Learning on a Healthy Data Diet: Finding Important Examples for Fairness.</dt>
 		<div style="text-align: left">
