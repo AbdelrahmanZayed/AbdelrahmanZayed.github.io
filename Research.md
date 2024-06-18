@@ -30,9 +30,9 @@ I like working on anything related to the responsible use of AI, such as develop
 		<img src="figures/cairo_acl24.png" width="400">
 		<p style="text-align: center;"> </p>
 		</div>
-		<I><b>A. Zayed, Goncalo Mordido, Ioana Baldini, Sarath Chandar</b></i><br>
-		<I><b>The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)</b></i><br>
-		<i><b>TL;DR:  We explain why fairness metrics don't correlate and propose CAIRO to make them correlate</b></i><br>
+		<I><b>A. Zayed</b>, Goncalo Mordido, Ioana Baldini, Sarath Chandar</i><br>
+		<I>The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)</i><br>
+		<i>TL;DR:  We explain why fairness metrics don't correlate and propose CAIRO to make them correlate</i><br>
 		<dt><a href="https://arxiv.org/pdf/2406.05918">[arXiv]
 	</dl> 	
 	<dl> 
