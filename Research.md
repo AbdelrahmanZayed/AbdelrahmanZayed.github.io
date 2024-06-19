@@ -26,7 +26,7 @@ Being surrounded by hundreds of AI researchers at Mila creates an exceptional en
 
 <!-- Content -->
 <div class="column">
-I like working on anything related to the responsible use of AI, such as developing novel and efficient bias mitigation methods and studying other harms like hate speech and hallucinations. I am also interested in developing better fairness metrics than existing ones. As an Egyptian, this is how I look when I focus on an idea I just came up with.
+I like working on anything related to the responsible use of AI, such as developing novel and efficient bias mitigation methods and studying other harms like hate speech and hallucination. I am also interested in developing better fairness metrics than existing ones. 
 		<div style="text-align: left">
 		<img src="figures/me_working.png" width="400">
 		<p style="text-align: center;"> </p>
