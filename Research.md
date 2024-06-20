@@ -15,7 +15,7 @@ nav-menu: true
 
 <!-- Content -->
 <div class="column">
-Being surrounded by hundreds of AI researchers at Mila creates an exceptional environment to develop new ideas. It is also an awesome place to make friends from all over the world!
+Being surrounded by hundreds of AI researchers at Mila creates an exceptional environment to develop new ideas and make new friends!
 		<div style="text-align: left">
 		<img src="figures/Mila_group_photo.jpg" width="800">
 		<p style="text-align: center;"> </p>
@@ -26,7 +26,7 @@ Being surrounded by hundreds of AI researchers at Mila creates an exceptional en
 
 <!-- Content -->
 <div class="column">
-I like working on anything related to responsible AI, such as developing novel and efficient bias mitigation methods and studying other harms like hate speech and hallucination. Given the limitations of bias metrics, I am also interested in introducing better fairness assessment techniques.
+I like working on anything related to responsible AI, such as developing novel and efficient social bias mitigation methods and studying harms like hate speech and hallucination. Given the limitations of bias metrics, I am also interested in introducing better fairness assessment techniques.
 		<div style="text-align: left">
 		<img src="figures/me_working.png" width="400">
 		<p style="text-align: center;"> </p>
