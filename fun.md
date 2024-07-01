@@ -11,7 +11,7 @@ I started learning piano when I was a kid and then stopped a very long time ago.
 
 <img src="figures/cello.jpg" width="400">
   
-More recently, I randomly bumped into someone in the metro carrying a cello, which made me curious to ask her where to learn. I learned that she had just finished her Ph.D. in music and now teaches cello, and she eventually became my cello teacher (her name is Jessica Korotkin, highly recommended). 
+More recently, I randomly bumped into someone in the metro carrying a cello, which made me curious to ask her where to learn. I got to know that she had just finished her Ph.D. in music and now teaches cello, and she eventually became my cello teacher (her name is Jessica Korotkin, highly recommended). 
 
 <img src="figures/kickboxing.jpg" width="400">
 
