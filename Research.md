@@ -69,7 +69,7 @@ I like working on anything related to responsible AI, such as developing novel a
 		<i>TL;DR:  We quantify the contribution of each training example to fairness, and choose the best training examples to reduce bias</i>
 		<dt><a href="https://arxiv.org/pdf/2211.11109.pdf">[arXiv]</a>
 		<a href="https://github.com/AbdelrahmanZayed/AbdelrahmanZayed.github.io/raw/master/assets/healthy_data_diet_slides.pdf">[slides]</a> 
-		<a href="https://drive.google.com/file/d/1K0Vr8kYY2q1Uapo3pPkUIhByL5trfEed/view?usp=sharing">[video]</a></dt>
+		<a href="https://drive.google.com/file/d/1K0Vr8kYY2q1Uapo3pPkUIhByL5trfEed/view?usp=sharing">[video]</a>
 		<a href="https://medium.com/@abdel.zayed.1/deep-learning-on-a-healthy-data-diet-90fe632e0daf">[blog]</a></dt>
 	<dl>
 		<dt>Ultrasound Elastography using Machine Learning</dt>
