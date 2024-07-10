@@ -44,7 +44,7 @@ I like working on responsible AI-related topics, such as developing novel and ef
 		<i><b>A. Zayed, Goncalo Mordido, Samira Shabanian, Sarath Chandar</b></i><br>
 		<i><b>1st Conference on Language Modeling (COLM) (COLM 2024)</b></i><br>
 		<i><b>TL;DR: We show that bias can be mitigated by focusing on a wider/narrower context.</b></i>
-  		<dt><a href="https://arxiv.org/pdf/2406.05918">[arXiv]</a> 
+  		<dt><a href="https://arxiv.org/pdf/2305.13088">[arXiv]</a> 
 	<dl> 
 		<dt>Why Don’t Prompt-Based Fairness Metrics Correlate?</dt>
 		<div style="text-align: left">
