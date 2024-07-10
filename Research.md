@@ -26,7 +26,7 @@ Being surrounded by hundreds of AI researchers at Mila creates an exceptional en
 
 <!-- Content -->
 <div class="column">
-I like working on anything related to responsible AI, such as developing novel and efficient social bias mitigation methods and studying harms like hate speech and hallucination. Given the limitations of bias metrics, I am also interested in introducing better fairness assessment techniques.
+I like working on responsible AI-related topics, such as developing novel and efficient social bias mitigation methods and studying harms like hate speech and hallucination. Given the limitations of bias metrics, I am also interested in introducing better fairness assessment techniques.
 		<div style="text-align: left">
 		<img src="figures/me_working.png" width="400">
 		<p style="text-align: center;"> </p>
@@ -36,6 +36,16 @@ I like working on anything related to responsible AI, such as developing novel a
 			<h1>Publications</h1>
 		</header>
 	<dl> 
+		<dt>Should we attend more or less? modulating attention for fairness</dt>
+		<div style="text-align: left">
+		<img src="figures/eat_colm24.png" width="400">
+		<p style="text-align: center;"> </p>
+		</div>
+		<i><b>A. Zayed, Goncalo Mordido, Samira Shabanian, Sarath Chandar</b></i><br>
+		<i><b>1st Conference on Language Modeling (COLM) (COLM 2024)</b></i><br>
+		<i><b>TL;DR: We show that bias can be mitigated by focusing on a wider/narrower context.</b></i>
+  		<dt><a href="https://arxiv.org/pdf/2406.05918">[arXiv]</a> 
+	<dl> 
 		<dt>Why Don’t Prompt-Based Fairness Metrics Correlate?</dt>
 		<div style="text-align: left">
 		<img src="figures/cairo_acl24.png" width="400">
@@ -43,7 +53,7 @@ I like working on anything related to responsible AI, such as developing novel a
 		</div>
 		<i><b>A. Zayed, Goncalo Mordido, Ioana Baldini, Sarath Chandar</b></i><br>
 		<i><b>The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)</b></i><br>
-		<i><b>TL;DR:  We explain why fairness metrics don't correlate and propose CAIRO to make them correlate</b></i>
+		<i><b>TL;DR:  We explain why fairness metrics don't correlate and propose CAIRO to make them correlate.</b></i>
   		<dt><a href="https://arxiv.org/pdf/2406.05918">[arXiv]</a> 
 	<dl> 
 		<dt>Fairness-Aware Structured Pruning in Transformers</dt>
@@ -53,7 +63,7 @@ I like working on anything related to responsible AI, such as developing novel a
 		</div>
 		<i><b>A. Zayed</b>, Goncalo Mordido, Samira Shabanian, Ioana Baldini, Sarath Chandar</i><br>
 		<i>The thirty-eighth Association for the Advancement of Artificial Intelligence (AAAI 2024)</i><br>
-		<i>TL;DR:  We show that certain attention heads are responsible for bias and pruning them improves fairness</i>
+		<i>TL;DR:  We show that certain attention heads are responsible for bias and pruning them improves fairness.</i>
 		<dt><a href="https://arxiv.org/pdf/2312.15398.pdf">[arXiv]</a>
 		<a href="https://github.com/AbdelrahmanZayed/AbdelrahmanZayed.github.io/raw/master/assets/FASP_slides.pdf">[slides]</a>
         <a href="https://drive.google.com/file/d/1Zag6z3zCz43AOMIgQSiQ4ZJOp4fyqZwj/view?usp=sharing">[video]</a></dt>
@@ -66,7 +76,7 @@ I like working on anything related to responsible AI, such as developing novel a
 		</div>
 		<i><b>A. Zayed</b>, Prasanna Parthasarathi, Goncalo Mordido, Hamid Palangi, Samira Shabanian, Sarath Chandar</i><br> 
 		<i>The thirty-seventh Association for the Advancement of Artificial Intelligence (AAAI 2023)</i><br>
-		<i>TL;DR:  We quantify the contribution of each training example to fairness, and choose the best training examples to reduce bias</i>
+		<i>TL;DR:  We quantify the contribution of each training example to fairness, and choose the best training examples to reduce bias.</i>
 		<dt><a href="https://arxiv.org/pdf/2211.11109.pdf">[arXiv]</a>
 		<a href="https://github.com/AbdelrahmanZayed/AbdelrahmanZayed.github.io/raw/master/assets/healthy_data_diet_slides.pdf">[slides]</a> 
 		<a href="https://drive.google.com/file/d/1K0Vr8kYY2q1Uapo3pPkUIhByL5trfEed/view?usp=sharing">[video]</a>
