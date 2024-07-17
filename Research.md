@@ -55,6 +55,7 @@ I like working on responsible AI-related topics, such as developing novel and ef
 		<i><b>The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)</b></i><br>
 		<i><b>TL;DR:  We explain why fairness metrics don't correlate and propose CAIRO to make them correlate.</b></i>
   		<dt><a href="https://arxiv.org/pdf/2406.05918">[arXiv]</a> 
+		<a href="https://github.com/AbdelrahmanZayed/AbdelrahmanZayed.github.io/raw/master/assets/CAIRO_FATE_slides.pdf">[slides]</a>
 	<dl> 
 		<dt>Fairness-Aware Structured Pruning in Transformers</dt>
 		<div style="text-align: left">
