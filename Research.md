@@ -15,7 +15,7 @@ nav-menu: true
 
 <!-- Content -->
 <div class="column">
-Being surrounded by hundreds of AI researchers at Mila creates an exceptional environment to develop new ideas and make new friends!
+Being surrounded by hundreds of AI researchers at Mila creates an exceptional environment to develop ideas and make new friends!
 		<div style="text-align: left">
 		<img src="figures/Mila_group_photo.jpg" width="800">
 		<p style="text-align: center;"> </p>
@@ -56,6 +56,7 @@ I like working on responsible AI-related topics, such as developing novel and ef
 		<i><b>TL;DR:  We explain why fairness metrics don't correlate and propose CAIRO to make them correlate.</b></i>
   		<dt><a href="https://arxiv.org/pdf/2406.05918">[arXiv]</a> 
 		<a href="https://github.com/AbdelrahmanZayed/AbdelrahmanZayed.github.io/raw/master/assets/CAIRO_FATE_slides.pdf">[slides]</a>
+	<a href="https://drive.google.com/file/d/1cowqbyUItGif-cc-e_KG8INbWHh6kC04/view?usp=sharing">[video]</a></dt>
 	<dl> 
 		<dt>Fairness-Aware Structured Pruning in Transformers</dt>
 		<div style="text-align: left">
