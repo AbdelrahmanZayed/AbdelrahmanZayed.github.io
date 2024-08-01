@@ -56,7 +56,7 @@ I like working on responsible AI-related topics, such as developing novel and ef
 		<i><b>TL;DR:  We explain why fairness metrics don't correlate and propose CAIRO to make them correlate.</b></i>
   		<dt><a href="https://arxiv.org/pdf/2406.05918">[arXiv]</a> 
 		<a href="https://drive.google.com/file/d/1-YC3nBrxujTRtbwqv1H0xTK7G0KY1UcA/view?usp=drive_link">[slides]</a>
-	<a href="https://drive.google.com/file/d/1cowqbyUItGif-cc-e_KG8INbWHh6kC04/view?usp=sharing">[video]</a>
+	<a href="https://www.youtube.com/watch?v=GIEYCFTG8eo">[video]</a>
 	<a href="https://drive.google.com/file/d/17a_BzCnLnob6GR0YoPlcnc-I1-jChyHc/view?usp=drive_link">[longer video]</a>
 	<dl> 
 		<dt>Fairness-Aware Structured Pruning in Transformers</dt>
@@ -69,7 +69,7 @@ I like working on responsible AI-related topics, such as developing novel and ef
 		<i>TL;DR:  We show that certain attention heads are responsible for bias and pruning them improves fairness.</i>
 		<dt><a href="https://arxiv.org/pdf/2312.15398.pdf">[arXiv]</a>
 		<a href="https://github.com/AbdelrahmanZayed/AbdelrahmanZayed.github.io/raw/master/assets/FASP_slides.pdf">[slides]</a>
-        <a href="https://drive.google.com/file/d/1Zag6z3zCz43AOMIgQSiQ4ZJOp4fyqZwj/view?usp=sharing">[video]</a></dt>
+        <a href="https://www.youtube.com/watch?v=3aBn7P-F1xc">[video]</a></dt>
 	</dl> 	
 	<dl> 
 		<dt>Deep Learning on a Healthy Data Diet: Finding Important Examples for Fairness</dt>
@@ -82,7 +82,7 @@ I like working on responsible AI-related topics, such as developing novel and ef
 		<i>TL;DR:  We quantify the contribution of each training example to fairness, and choose the best training examples to reduce bias.</i>
 		<dt><a href="https://arxiv.org/pdf/2211.11109.pdf">[arXiv]</a>
 		<a href="https://github.com/AbdelrahmanZayed/AbdelrahmanZayed.github.io/raw/master/assets/healthy_data_diet_slides.pdf">[slides]</a> 
-		<a href="https://drive.google.com/file/d/1K0Vr8kYY2q1Uapo3pPkUIhByL5trfEed/view?usp=sharing">[video]</a>
+		<a href="https://www.youtube.com/watch?v=g_Hbh0bMOZU">[video]</a>
 		<a href="https://medium.com/@abdel.zayed.1/deep-learning-on-a-healthy-data-diet-90fe632e0daf">[blog]</a></dt>
 	<dl>
 		<dt>Ultrasound Elastography using Machine Learning</dt>
