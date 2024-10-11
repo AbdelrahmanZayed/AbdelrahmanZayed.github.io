@@ -6,7 +6,6 @@ description:
 image: 
 author: 
 show_tile: False
-My CV is available [here](https://github.com/AbdelrahmanZayed/AbdelrahmanZayed.github.io/raw/master/assets/Abdel_CV_2.pdf). 
 ---
     
 <img src="https://raw.githubusercontent.com/AbdelrahmanZayed/AbdelrahmanZayed.github.io/master/assets/images/abdel_photo_2.jpg" width="220">
