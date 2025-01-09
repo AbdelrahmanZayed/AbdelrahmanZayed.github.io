@@ -58,6 +58,7 @@ I like working on responsible AI-related topics, such as developing novel and ef
 		<a href="https://drive.google.com/file/d/1-YC3nBrxujTRtbwqv1H0xTK7G0KY1UcA/view?usp=drive_link">[slides]</a>
 	<a href="https://www.youtube.com/watch?v=GIEYCFTG8eo">[video]</a>
 	<a href="https://drive.google.com/file/d/17a_BzCnLnob6GR0YoPlcnc-I1-jChyHc/view?usp=drive_link">[longer video]</a>
+	<a href="https://medium.com/@abdel.zayed.1/why-dont-prompt-based-fairness-metrics-correlate-4206e77132bd">[blog]</a>
 	<dl> 
 		<dt>Fairness-Aware Structured Pruning in Transformers</dt>
 		<div style="text-align: left">
@@ -70,6 +71,7 @@ I like working on responsible AI-related topics, such as developing novel and ef
 		<dt><a href="https://arxiv.org/pdf/2312.15398.pdf">[arXiv]</a>
 		<a href="https://github.com/AbdelrahmanZayed/AbdelrahmanZayed.github.io/raw/master/assets/FASP_slides.pdf">[slides]</a>
         <a href="https://www.youtube.com/watch?v=3aBn7P-F1xc">[video]</a></dt>
+	<a href="https://medium.com/@abdel.zayed.1/fairness-aware-structured-pruning-in-transformers-cb746b095c10">[blog]</a>
 	</dl> 	
 	<dl> 
 		<dt>Deep Learning on a Healthy Data Diet: Finding Important Examples for Fairness</dt>
