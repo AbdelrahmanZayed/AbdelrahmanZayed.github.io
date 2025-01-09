@@ -72,8 +72,7 @@ I like working on responsible AI-related topics, such as developing novel and ef
 		<dt><a href="https://arxiv.org/pdf/2312.15398.pdf">[arXiv]</a>
 		<a href="https://github.com/AbdelrahmanZayed/AbdelrahmanZayed.github.io/raw/master/assets/FASP_slides.pdf">[slides]</a>	
         <a href="https://www.youtube.com/watch?v=3aBn7P-F1xc">[video]</a>
-	<a href="https://medium.com/@abdel.zayed.1/fairness-aware-structured-pruning-in-transformers-cb746b095c10">[blog]	</a>
-	</dl> 	
+	<a href="https://medium.com/@abdel.zayed.1/fairness-aware-structured-pruning-in-transformers-cb746b095c10">[blog]	</a>	
 	<dl> 
 		<dt>Deep Learning on a Healthy Data Diet: Finding Important Examples for Fairness</dt>
 		<div style="text-align: left">
