@@ -36,6 +36,20 @@ I like working on responsible AI-related topics, such as developing novel and ef
 			<h1>Publications</h1>
 		</header>
 	<dl> 
+		<dt>Do Biased Models Have Biased Thoughts?</dt>
+		<div style="text-align: left">
+		<img src="figures/brain_colm25.png" width="400">
+		<p style="text-align: center;"> </p>
+		</div>
+		<i><b>Swati Rajwal, Shivank Garg, Reem Abdel-Salam, <b>A. Zayed</b></i><br>
+		<i><b>2nd Conference on Language Modeling (COLM 2025)</b></i><br>
+		<i><b>TL;DR:  We show that language models with biased output do not necessarily have biased thoughts</b></i>
+  		<dt><a href="https://arxiv.org/pdf/2508.06671?">[arXiv]</a> 
+		<a href="https://drive.google.com/file/d/1-9XcumkECdKoiSgTJMzbJudwEJ7G7OUU/view?usp=sharing">[slides]</a>
+	<a href="https://www.youtube.com/watch?v=Q-upWvYEx-E&t=2970s">[5-minute video]</a>
+	<a href="https://www.youtube.com/watch?v=EH5kY-g16Uc">[1-hour video]</a>
+	<dl> 
+	<dl> 
 		<dt>Should we attend more or less? modulating attention for fairness</dt>
 		<div style="text-align: left">
 		<img src="figures/eat_colm24.png" width="400">
