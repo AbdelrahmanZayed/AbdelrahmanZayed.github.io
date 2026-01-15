@@ -41,7 +41,7 @@ I like working on responsible AI-related topics, such as developing novel and ef
 		<img src="figures/brain_colm25.png" width="400">
 		<p style="text-align: center;"> </p>
 		</div>
-		<i><b>Swati Rajwal, Shivank Garg, Reem Abdel-Salam, <b>A. Zayed</b></i><br>
+		<i><b>Swati Rajwal, Shivank Garg, Reem Abdel-Salam, <b>A. Zayed</b><br>
 		<i><b>2nd Conference on Language Modeling (COLM 2025)</b></i><br>
 		<i><b>TL;DR:  We show that language models with biased output do not necessarily have biased thoughts</b></i>
   		<dt><a href="https://arxiv.org/pdf/2508.06671?">[arXiv]</a> 
