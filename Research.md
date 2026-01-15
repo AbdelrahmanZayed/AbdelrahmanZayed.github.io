@@ -62,6 +62,7 @@ I like working on responsible AI-related topics, such as developing novel and ef
   		<dt><a href="https://arxiv.org/pdf/2305.13088">[arXiv]</a> 
 		<a href="https://medium.com/@abdel.zayed.1/should-we-attend-more-or-less-modulating-attention-for-fairness-e80ab91a3a15">[blog]</a>
 	<dl> 
+	<br>
 		<dt>Why Don’t Prompt-Based Fairness Metrics Correlate?</dt>
 		<div style="text-align: left">
 		<img src="figures/cairo_acl24.png" width="400">
@@ -76,6 +77,7 @@ I like working on responsible AI-related topics, such as developing novel and ef
 	<a href="https://drive.google.com/file/d/17a_BzCnLnob6GR0YoPlcnc-I1-jChyHc/view?usp=drive_link">[longer video]</a>
 	<a href="https://medium.com/@abdel.zayed.1/why-dont-prompt-based-fairness-metrics-correlate-4206e77132bd">[blog]</a>
 	<dl> 
+	<br>
 		<dt>Fairness-Aware Structured Pruning in Transformers</dt>
 		<div style="text-align: left">
 		<img src="figures/aaai_24.png" width="400">
@@ -89,6 +91,7 @@ I like working on responsible AI-related topics, such as developing novel and ef
         <a href="https://www.youtube.com/watch?v=3aBn7P-F1xc">[video]</a>
 	<a href="https://medium.com/@abdel.zayed.1/fairness-aware-structured-pruning-in-transformers-cb746b095c10">[blog]	</a>	
 	<dl> 
+	<br>
 		<dt>Deep Learning on a Healthy Data Diet: Finding Important Examples for Fairness</dt>
 		<div style="text-align: left">
 		<img src="figures/aaai_23.png" width="400">
@@ -102,33 +105,38 @@ I like working on responsible AI-related topics, such as developing novel and ef
 		<a href="https://www.youtube.com/watch?v=g_Hbh0bMOZU">[video]</a>
 		<a href="https://medium.com/@abdel.zayed.1/deep-learning-on-a-healthy-data-diet-90fe632e0daf">[blog]</a></dt>
 	<dl>
+	<br>
 		<dt>Ultrasound Elastography using Machine Learning</dt>
 		<i><b>A. Zayed</b></i><br>
 		<i><i>Master's Thesis, 2020</i></i>
 		<dt><a href="https://spectrum.library.concordia.ca/986744/1/Zayed_MASc_S2020.pdf">[Link]</a></dt>
 	<dl>
+	<br>
 		<dt>Fast Strain Estimation and Frame Selection in Ultrasound Elastography using Machine Learning</dt>
 		<i><b>A. Zayed</b> and H. Rivaz</i><br>
 		<i>IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (TUFFC), 2020</i>
 		<dt><a href="https://ieeexplore.ieee.org/abstract/document/9091615">[Link]</a>
 		<a href="https://github.com/AbdelrahmanZayed/PCA-GLUE_Ultrasound_Elastography">[code]</a></dt>
 	<dl>
+	<br>
 		<dt>Automatic Frame Selection using CNN in Ultrasound Elastography</dt>
 		<i><b>A. Zayed</b>, G. Cloutier and H. Rivaz</i><br>
 		<i>Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS), 2020</i>
-		<dt><a href="https://arxiv.org/pdf/2002.06734.pdf">[arXiv]</a></dt>
-		
+		<dt><a href="https://arxiv.org/pdf/2002.06734.pdf">[arXiv]</a></dt>	
 	<dl>
+	<br>
 		<dt>Rapid Quantification of White Matter Disconnection in the Human Brain</dt>
 		<i><b>A. Zayed</b>, Y. Iturria-Medina, A. Villringer, B. Sehm and C. Steele</i><br>
 		<i>Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS), 2020</i>
 		<dt><a href="https://arxiv.org/pdf/2002.09035.pdf">[arXiv]</a></dt>
 	<dl>
+	<br>
 		<dt>Automatic Frame Selection Using MLP Neural Network in Ultrasound Elastography</dt>
 		<i><b>A. Zayed</b> and H. Rivaz</i><br>
 		<i>International Conference on Image Analysis and Recognition (ICIAR), 2019</i>
 		<dt><a href="https://arxiv.org/pdf/1911.05245.pdf">[arXiv]</a></dt>
 	<dl>
+	<br>
 		<dt>Fast approximate time-delay estimation in ultrasound elastography using principal component analysis</dt>
 		<i><b>A. Zayed</b> and H. Rivaz</i><br>
 		<i>Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS), 2019</i>
