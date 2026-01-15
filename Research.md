@@ -49,7 +49,7 @@ I like working on responsible AI-related topics, such as developing novel and ef
 	<a href="https://www.youtube.com/watch?v=Q-upWvYEx-E&t=2970s">[5-minute video]</a>
 	<a href="https://www.youtube.com/watch?v=EH5kY-g16Uc">[1-hour video]</a>
 	<dl> 
-		
+	<br>
 	<dl> 
 		<dt>Should we attend more or less? modulating attention for fairness</dt>
 		<div style="text-align: left">
@@ -61,7 +61,6 @@ I like working on responsible AI-related topics, such as developing novel and ef
 		<i><b>TL;DR: We show that bias can be mitigated by focusing on a wider/narrower context.</b></i>
   		<dt><a href="https://arxiv.org/pdf/2305.13088">[arXiv]</a> 
 		<a href="https://medium.com/@abdel.zayed.1/should-we-attend-more-or-less-modulating-attention-for-fairness-e80ab91a3a15">[blog]</a>
-		
 	<dl> 
 		<dt>Why Don’t Prompt-Based Fairness Metrics Correlate?</dt>
 		<div style="text-align: left">
@@ -76,7 +75,6 @@ I like working on responsible AI-related topics, such as developing novel and ef
 	<a href="https://www.youtube.com/watch?v=GIEYCFTG8eo">[video]</a>
 	<a href="https://drive.google.com/file/d/17a_BzCnLnob6GR0YoPlcnc-I1-jChyHc/view?usp=drive_link">[longer video]</a>
 	<a href="https://medium.com/@abdel.zayed.1/why-dont-prompt-based-fairness-metrics-correlate-4206e77132bd">[blog]</a>
-	
 	<dl> 
 		<dt>Fairness-Aware Structured Pruning in Transformers</dt>
 		<div style="text-align: left">
@@ -90,7 +88,6 @@ I like working on responsible AI-related topics, such as developing novel and ef
 		<a href="https://github.com/AbdelrahmanZayed/AbdelrahmanZayed.github.io/raw/master/assets/FASP_slides.pdf">[slides]</a>	
         <a href="https://www.youtube.com/watch?v=3aBn7P-F1xc">[video]</a>
 	<a href="https://medium.com/@abdel.zayed.1/fairness-aware-structured-pruning-in-transformers-cb746b095c10">[blog]	</a>	
-	
 	<dl> 
 		<dt>Deep Learning on a Healthy Data Diet: Finding Important Examples for Fairness</dt>
 		<div style="text-align: left">
@@ -104,20 +101,17 @@ I like working on responsible AI-related topics, such as developing novel and ef
 		<a href="https://github.com/AbdelrahmanZayed/AbdelrahmanZayed.github.io/raw/master/assets/healthy_data_diet_slides.pdf">[slides]</a> 
 		<a href="https://www.youtube.com/watch?v=g_Hbh0bMOZU">[video]</a>
 		<a href="https://medium.com/@abdel.zayed.1/deep-learning-on-a-healthy-data-diet-90fe632e0daf">[blog]</a></dt>
-		
 	<dl>
 		<dt>Ultrasound Elastography using Machine Learning</dt>
 		<i><b>A. Zayed</b></i><br>
 		<i><i>Master's Thesis, 2020</i></i>
 		<dt><a href="https://spectrum.library.concordia.ca/986744/1/Zayed_MASc_S2020.pdf">[Link]</a></dt>
-		
 	<dl>
 		<dt>Fast Strain Estimation and Frame Selection in Ultrasound Elastography using Machine Learning</dt>
 		<i><b>A. Zayed</b> and H. Rivaz</i><br>
 		<i>IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (TUFFC), 2020</i>
 		<dt><a href="https://ieeexplore.ieee.org/abstract/document/9091615">[Link]</a>
 		<a href="https://github.com/AbdelrahmanZayed/PCA-GLUE_Ultrasound_Elastography">[code]</a></dt>
-		
 	<dl>
 		<dt>Automatic Frame Selection using CNN in Ultrasound Elastography</dt>
 		<i><b>A. Zayed</b>, G. Cloutier and H. Rivaz</i><br>
@@ -129,13 +123,11 @@ I like working on responsible AI-related topics, such as developing novel and ef
 		<i><b>A. Zayed</b>, Y. Iturria-Medina, A. Villringer, B. Sehm and C. Steele</i><br>
 		<i>Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS), 2020</i>
 		<dt><a href="https://arxiv.org/pdf/2002.09035.pdf">[arXiv]</a></dt>
-		
 	<dl>
 		<dt>Automatic Frame Selection Using MLP Neural Network in Ultrasound Elastography</dt>
 		<i><b>A. Zayed</b> and H. Rivaz</i><br>
 		<i>International Conference on Image Analysis and Recognition (ICIAR), 2019</i>
 		<dt><a href="https://arxiv.org/pdf/1911.05245.pdf">[arXiv]</a></dt>
-		
 	<dl>
 		<dt>Fast approximate time-delay estimation in ultrasound elastography using principal component analysis</dt>
 		<i><b>A. Zayed</b> and H. Rivaz</i><br>
