@@ -38,7 +38,7 @@ I like working on responsible AI-related topics, such as developing novel and ef
 	<dl> 
 		<dt>Do Biased Models Have Biased Thoughts?</dt>
 		<div style="text-align: left">
-		<img src="figures/brain_colm25.png" width="400">
+		<img src="figures/brain_colm25.png" width="500">
 		<p style="text-align: center;"> </p>
 		</div>
 		<i><b>Swati Rajwal, Shivank Garg, Reem Abdel-Salam, <b>A. Zayed</b></i><br>
