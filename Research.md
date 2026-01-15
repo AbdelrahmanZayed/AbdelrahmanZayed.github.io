@@ -1,5 +1,3 @@
-```html
-
 ---
 layout: page
 title: Research
@@ -181,5 +179,3 @@ nav-menu: true
     </div>
   </section>
 </div>
-
-```
